@@ -1,0 +1,58 @@
+body {
+    background-image: url('tugas.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.container {
+    margin-top: 50px;
+}
+.form-box {
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid rgb(5, 3, 3);
+}
+input {
+    padding: 5px;
+    margin: 5px;
+}
+button {
+    background-color: cyan;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: lightblue;
+}
+
+.container {
+    margin-top: 50px;
+}
+.form-box {
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid rgb(255, 255, 255);
+}
+input {
+    padding: 5px;
+    margin: 5px;
+}
+button {
+    background-color: rgb(14, 0, 207);
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: lightblue;
+}
